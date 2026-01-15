@@ -1,11 +1,1 @@
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-(Generated originally with Lovable)
+Building automations that save 500+ hours monthly. Turning complex data into actionable insights. Securing systems with CompTIA Security+.
