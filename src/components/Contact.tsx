@@ -11,7 +11,7 @@ export const Contact = () => {
         <div className="border border-border rounded p-6 bg-card/50">
           <p className="text-muted-foreground mb-6">
             Open to opportunities in automation, data analytics, and cybersecurity. 
-            Let's connect.
+            Let's connect. Looking for a role in Spain.
           </p>
           
           <div className="space-y-3 text-sm">
