@@ -5,6 +5,9 @@ const projects = [
     title: "Email Automation System",
     description: "Power Automate + Office Scripts solution that won 1st place at company Innovation event. Saves 1-2 hours daily per team member.",
     tags: ["Power Automate", "TypeScript", "Office Scripts"],
+    links: {
+      demo: "https://youtu.be/PVYCskTed2A",
+    },
     highlight: true,
     icon: Trophy,
   },
@@ -24,7 +27,6 @@ const projects = [
     tags: ["Ruby on Rails", "PostgreSQL", "UML"],
     links: {
       github: "https://github.com/rafael-yml",
-      demo: "https://youtu.be/PVYCskTed2A",
     },
   },
 ];
