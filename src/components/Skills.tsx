@@ -1,9 +1,5 @@
 const skillCategories = [
   {
-    title: "Cybersecurity",
-    skills: ["Splunk", "Wireshark", "Nmap", "Chronicle", "Security+"],
-  },
-  {
     title: "Data & Analytics",
     skills: ["Python", "Pandas", "PowerBI", "Azure", "SQL", "Excel"],
   },
@@ -14,6 +10,10 @@ const skillCategories = [
   {
     title: "Development",
     skills: ["TypeScript", "JavaScript", "Ruby on Rails", "Java", "Git"],
+  },
+  {
+    title: "Cybersecurity",
+    skills: ["Splunk", "Wireshark", "Nmap", "Chronicle", "Security+"],
   },
 ];
 
