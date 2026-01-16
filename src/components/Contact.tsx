@@ -25,7 +25,7 @@ export const Contact = () => {
             
             <div className="flex items-center gap-3 text-muted-foreground">
               <MapPin className="w-4 h-4" />
-              Kuala Lumpur, Malaysia
+              Kuala Lumpur, Malaysia ✈️ > Spain 
             </div>
             
             <div className="flex items-center gap-3 text-muted-foreground">
