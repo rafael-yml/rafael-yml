@@ -17,9 +17,6 @@ const projects = [
     tags: ["Library", "VBA / VB", "PDF Text Extracion", "Pipeline"],
     links: {
       github: "https://github.com/rafael-yml/VBA-PdfTXT",
-	  github: "https://github.com/rafael-yml/VBA-PdfWRT",
-	  github: "https://github.com/rafael-yml/VBA-WinOCR",
-	  github: "https://github.com/rafael-yml/VBA-VBA-WdCOM",
     },
     highlight: true,
   },
