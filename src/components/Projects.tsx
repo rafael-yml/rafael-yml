@@ -12,6 +12,15 @@ const projects = [
     icon: Trophy,
   },
   {
+    title: "Full VBA-Native PDF Text extraction Pipeline",
+    description: "Full VBA-Native solution that reliably extracts texts from PDF files without relying on external libraries, low-level system calls, or shell execution.",
+    tags: ["Library", "VBA / VB", "PDF Text Extracion", "Pipeline"],
+    links: {
+      github: "https://github.com/rafael-yml/VBA-PdfTXT, https://github.com/rafael-yml/VBA-PdfWRT, https://github.com/rafael-yml/VBA-WinOCR, https://github.com/rafael-yml/VBA-WdCOM",
+    },
+    highlight: true,
+  },
+  {
     title: "SAP ERP Automation Suite",
     description: "VBA automations integrated with SAP Scripting. Increased team efficiency by 60% and saved 500+ hours monthly.",
     tags: ["VBA", "SAP", "Excel"],
