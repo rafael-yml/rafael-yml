@@ -16,7 +16,7 @@ const projects = [
     description: "Full VBA-Native solution that reliably extracts texts from PDF files without relying on external libraries, low-level system calls, or shell execution.",
     tags: ["Library", "VBA / VB", "PDF Text Extracion", "Pipeline"],
     links: {
-      github: "https://github.com/rafael-yml/VBA-PdfTXT",
+      github: "https://github.com/rafael-yml/VBA-PdfParser",
     },
     highlight: true,
   },
